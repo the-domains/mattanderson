@@ -1,28 +1,40 @@
-name: MattAnderson
-favicon: null
-layout_spectrum: 0.5916042651515454
-typography_spectrum: 0.5914274484384805
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 0.3825133913196623
+  saturation: 0.8804097992833704
   brandColors:
     - '#000000'
     - '#565656'
     - '#9f9f9f'
     - '#fbfcfc'
     - '#d7d7d7'
-  brandStrength: 0.38251339131966233
   lightness: 0.769772638566792
-  saturation: 0.8804097992833704
   rhythmicContrast: 0.8528174357488751
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  version: null
+  bucket: null
+  domain: null
+favicon: null
+layout_spectrum: 0.5916042651515454
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
+name: MattAnderson
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5914274484384805
