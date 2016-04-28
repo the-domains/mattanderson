@@ -1,24 +1,15 @@
-color:
-  brandStrength: 0.3825133913196623
-  saturation: 0.8804097992833704
-  brandColors:
-    - '#000000'
-    - '#565656'
-    - '#9f9f9f'
-    - '#fbfcfc'
-    - '#d7d7d7'
-  lightness: 0.769772638566792
-  rhythmicContrast: 0.8528174357488751
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  version: null
-  bucket: null
-  domain: null
-favicon: null
 layout_spectrum: 0.5916042651515454
+favicon: null
+name: MattAnderson
+purpose: []
+analytics:
+  facebook: null
+  google: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       navigable: true
@@ -31,10 +22,19 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
-name: MattAnderson
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5914274484384805
+cta:
+  domain: null
+  version: null
+  bucket: null
+color:
+  brandStrength: 0.3825133913196623
+  saturation: 0.8804097992833704
+  brandColors:
+    - '#000000'
+    - '#565656'
+    - '#9f9f9f'
+    - '#fbfcfc'
+    - '#d7d7d7'
+  lightness: 0.769772638566792
+  rhythmicContrast: 0.8528174357488751
+typography_spectrum: 0.5787234
